@@ -17,3 +17,4 @@ LIST OF FILES IN THIS DIRECTORY:
 - NLP Final Report.pdf: The comprehensive final report detailing the project’s objectives, methodologies, results, and conclusions.
 - NLP Report Figures.pdf: A separate document containing all the figures and visualizations referenced in the final report.
 - NLP_analysis_notebook.ipynb: The initial Jupyter Notebook containing the code and analysis for the project.
+- README.md: This File
